@@ -1,0 +1,1 @@
+-join (Get-Content .\Input.txt) | iex
